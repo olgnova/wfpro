@@ -8,4 +8,4 @@ console.log ('hallo', firstName)
 const firstName = `Olga`
 const age = `46`
 const region = `Russia`
-const hobbi = `magic`
+const hobby = `magic`
