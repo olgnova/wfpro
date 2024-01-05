@@ -5,7 +5,7 @@ let firstName = 'Mike'
 firstName = 'Ivan'
 console.log ('hallo', firstName)
 
-const firstName = `Olga`
-const age = `46`
-const region = `Russia`
-const hobby = `magic`
+const firstName = 'Olga'
+const age = '46'
+const region = 'Russia'
+const hobby = 'magic'
