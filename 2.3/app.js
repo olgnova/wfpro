@@ -1,2 +1,5 @@
-const titleProject = 'webdesign'
-const screensValue = 
+const age = 27;
+console.log(typeof age);
+
+
+
